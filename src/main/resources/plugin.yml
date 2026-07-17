@@ -1,0 +1,11 @@
+name: ShitSalary
+version: '${version}'
+
+main: com.github.maxos.shitSalary.ShitSalary
+api-version: '1.18'
+
+depend:
+  - Vault
+
+authors: [ Maxos ]
+website: https://t.me/maxos_off

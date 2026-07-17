@@ -1,0 +1,9 @@
+# Настройки плуга
+
+entities:
+
+  player: # id энтити
+    price:
+      min: 100 # можно указать дробью. 100.5 | 100.52131 | 0.1488
+      max: 200
+    type-withdrawal: virtual # virtual | physical
